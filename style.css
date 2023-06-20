@@ -1,0 +1,63 @@
+body {
+
+    background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+
+}
+
+
+
+.note  {
+
+font-size: 15px;
+color:#0A214C ;
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+text-decoration:underline ;
+
+}
+
+
+#copyright {
+
+position: fixed;
+color: grey;
+bottom: 0;
+width: 100%;
+background-color: wheat;
+line-height: 3;
+text-align: center;
+font-weight: bold;
+
+}
+
+
+h3 {
+
+	font-family: Lucida Handwriting	;
+    font-weight: bolder;
+    font-size: 20px;
+    color: #0A214C    ;
+	text-shadow: 3px 2px 5px #F8D568;
+
+}
+
+canvas {
+
+background-color: white;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+
+
+#font_size,label {
+
+color:  #0A214C;
+font-size:  15px;
+font-weight: bold;
+
+
+}
+
+	
+
